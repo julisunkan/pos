@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#product-list, #admin-product-list {
+    margin: 20px 0;
+}
+
+button {
+    margin-left: 10px;
+}
